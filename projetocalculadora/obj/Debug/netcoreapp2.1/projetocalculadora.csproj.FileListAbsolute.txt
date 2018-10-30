@@ -1,0 +1,11 @@
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/obj/Debug/netcoreapp2.1/projetocalculadora.csprojAssemblyReference.cache
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/obj/Debug/netcoreapp2.1/projetocalculadora.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/obj/Debug/netcoreapp2.1/projetocalculadora.AssemblyInfoInputs.cache
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/obj/Debug/netcoreapp2.1/projetocalculadora.AssemblyInfo.cs
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/bin/Debug/netcoreapp2.1/projetocalculadora.deps.json
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/bin/Debug/netcoreapp2.1/projetocalculadora.runtimeconfig.json
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/bin/Debug/netcoreapp2.1/projetocalculadora.runtimeconfig.dev.json
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/bin/Debug/netcoreapp2.1/projetocalculadora.dll
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/bin/Debug/netcoreapp2.1/projetocalculadora.pdb
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/obj/Debug/netcoreapp2.1/projetocalculadora.dll
+/Users/aluno/Projects/projetocalculadora/projetocalculadora/obj/Debug/netcoreapp2.1/projetocalculadora.pdb

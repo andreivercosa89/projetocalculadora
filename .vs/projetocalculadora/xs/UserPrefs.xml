@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9CBE2097-2870-4F1E-8142-868F634CDB0D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="projetocalculadora/Program.cs">
+    <Files>
+      <File FileName="projetocalculadora/Program.cs" Line="22" Column="33" />
+      <File FileName="projetocalculadora/Calculo.cs" Line="52" Column="26" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.projetocalculadora PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
